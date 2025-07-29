@@ -26,7 +26,7 @@
 
 ## 🖼️ Vista previa
 
-<img src="img/sistema-solar-preview.png" width="100%" alt="Vista previa del sistema solar"/>
+<img width="1600" height="776" alt="image" src="https://github.com/user-attachments/assets/27f4af3e-a09d-4d7a-a902-351317061cde" />
 
 > 📌 Si no ves la animación, abre el archivo `index.html` con tu navegador favorito.
 
